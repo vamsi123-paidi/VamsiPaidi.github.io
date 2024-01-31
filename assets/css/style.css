@@ -375,7 +375,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #dee2e6;
+  color: #c5f7cb;
   font-family: "Poppins", sans-serif;
 }
 
@@ -384,7 +384,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #dee2e6;
+  background: #c5f7cb;
   margin: 4px 10px;
 }
 
@@ -395,7 +395,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #73b2ed;
 }
 
 /*--------------------------------------------------------------
@@ -404,7 +404,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #1c7d32;
+  color: #1f5384;
 }
 
 .about-me .content ul {
@@ -438,7 +438,7 @@ section .container {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgba(255, 255, 255, 0.08);
+  background: #4b4de6;
 }
 
 .counts .count-box i {
@@ -447,9 +447,9 @@ section .container {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: rgba(255, 255, 255, 0.1);
+  background: #4b4de6;
   padding: 12px;
-  color: #1c7d32;
+  color: #389ae9;
   border-radius: 50px;
 }
 
@@ -492,14 +492,14 @@ section .container {
 }
 
 .skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.15);
+  background: #c64ce7;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #1c7d32;
+  background-color: #7b1197;
 }
 
 /*--------------------------------------------------------------
@@ -509,7 +509,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #09203a;
+  background: #18cd15;
   transition: ease-in-out 0.3s;
 }
 
@@ -547,7 +547,7 @@ section .container {
   margin: -40px 0 0 40px;
   position: relative;
   z-index: 2;
-  border: 6px solid rgba(255, 255, 255, 0.12);
+  border: 6px solid #3488e4;
 }
 
 .testimonials .testimonial-item h3 {
@@ -564,7 +564,7 @@ section .container {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: rgba(255, 255, 255, 0.25);
+  color:#3488e4;
   font-size: 26px;
 }
 
